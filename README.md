@@ -5,6 +5,7 @@ This was a project I did in my undergrad and decided to include it in my github 
 Statistical analysis of independent variables of glass art (color, blown, vase, functional, sculpture, etc) and their affects on the price of sold glass art at auctions.
 I saved my [.DTA](https://github.com/evamintz/Factors_Affecting_GlassArt_Price/blob/master/Glass%20project.dta) and [.DO](https://github.com/evamintz/Factors_Affecting_GlassArt_Price/blob/master/Glass%20project%20do-file.do)
 files for Stata software which should document my overall process although I no longer have access to the program and haven't looked at the .DTA but the .DO looks quite incomplete.
+[Excel Dataset](https://github.com/evamintz/Factors_Affecting_GlassArt_Price/blob/master/Glass%20auction%20price%20data.xlsx)
 Unfortunately I am missing the entire written report but the following are notes I have for the presentation.
 Some slides were removed when I presented my findings at the 2016 Kentucky Economic Association, these slides include
 more analysis and models that were done during the process of this project (notes below as well).
