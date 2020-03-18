@@ -9,6 +9,8 @@ Unfortunately I am missing the entire written report but the following are notes
 Some slides were removed when I presented my findings at the 2016 Kentucky Economic Association, these slides include
 more analysis and models that were done during the process of this project (notes below as well).
 
+Note: The slides from powerpoint did not convert/upload well at all (I swear they were pretty!) but the pictures are fine and data should still be readable.
+
 [Presentation Slides](https://github.com/evamintz/Factors_Affecting_GlassArt_Price/blob/master/Factors%20Affecting%20the%20Prices%20of%20Glass%20Artwork.pdf)
 
 The blown glass mushrooms pictured in slide 2 are of my own making, they stand 2-16" tall.
